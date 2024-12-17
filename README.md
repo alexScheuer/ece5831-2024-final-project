@@ -11,9 +11,6 @@ https://drive.google.com/drive/folders/1iphzfQBcqhZk7bAv0pgmMDnbF5kY4NXX?usp=dri
 
 Link to page containing:
     - Presentation video
-
+        https://youtu.be/ugi1BdkI47k
     - Demo video
-
-
-YouTube:
-    umich login
+        https://youtu.be/yVpGUepqzqo
